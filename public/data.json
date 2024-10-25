@@ -1,0 +1,42 @@
+[
+    {
+        "type": "music",
+        "title": "C.R.E.A.M",
+        "released": "1993",
+        "artist": "Wu-Tang Clan",
+        "genre": "East Coast Hip-Hop",
+        "link": "https://en.wikipedia.org/wiki/C.R.E.A.M."
+    },
+    {
+        "type": "music",
+        "title": "1 4 2",
+        "released": "2014",
+        "artist": "Inner Wave",
+        "genre": "Alternative",
+        "link": "https://genius.com/Inner-wave-1-4-2-lyrics"
+    },
+    {
+        "type": "music",
+        "title": "Blinding Lights",
+        "released": "2019",
+        "artist": "The Weeknd",
+        "genre": "Synthwave",
+        "link": "https://en.wikipedia.org/wiki/Blinding_Lights"
+    },
+    {
+        "type": "music",
+        "title": "Shape of You",
+        "released": "2017",
+        "artist": "Ed Sheeran",
+        "genre": "Pop",
+        "link": "https://en.wikipedia.org/wiki/Shape_of_You"
+    },
+    {
+        "type": "music",
+        "title": "Smells Like Teen Spirit",
+        "released": "1991",
+        "artist": "Nirvana",
+        "genre": "Grunge",
+        "link": "https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit"
+    }
+]
